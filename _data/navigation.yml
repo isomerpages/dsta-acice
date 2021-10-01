@@ -6,10 +6,6 @@ links:
     url: /aboutus/
   - title: Research
     url: /permalink
-  - title: Research
-    resource_room: true
-  - title: Research
-    url: /permalink
     sublinks:
       - title: Terrorism
         url: /permalink
@@ -17,3 +13,7 @@ links:
         url: /permalink
       - title: Covid
         url: /permalink
+  - title: Press
+    url: /permalink
+  - title: Contact Us
+    url: /permalink
