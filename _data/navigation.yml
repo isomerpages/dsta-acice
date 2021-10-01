@@ -1,17 +1,19 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
+  - title: Home
+    url: /Home/
+  - title: About Us
+    url: /aboutus/
+  - title: Research
+    url: /permalink
+  - title: Research
     resource_room: true
+  - title: Research
+    url: /permalink
+    sublinks:
+      - title: Terrorism
+        url: /permalink
+      - title: Social Harmony
+        url: /permalink
+      - title: Covid
+        url: /permalink
