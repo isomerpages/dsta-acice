@@ -12,14 +12,16 @@ sections:
         blah blah blah..... ACICE is blah blah blah..... ACICE is blah blah
         blah..... "
       background: /images/ACICE_Hero.jpg
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
+      title: Latest Insights
+  - infobar:
+      title: About Us
+      description: "What About Us? What About Us? What About Us? What About Us? What
+        About Us? What About Us? What About Us? What About Us? "
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
