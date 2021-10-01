@@ -5,7 +5,7 @@ links:
   - title: About Us
     url: /aboutus/
   - title: Insights
-    url: /permalink
+    url: /Insights
   - title: Research
     url: /permalink
     sublinks:
@@ -16,6 +16,6 @@ links:
       - title: Covid
         url: /permalink
   - title: Press
-    url: /permalink
-  - title: Contact Us
-    url: /permalink
+    url: /press
+  - title: faq
+    url: /faq
