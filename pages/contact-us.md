@@ -14,6 +14,13 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: Office
+  - address:
+      - ""
+      - ""
+      - ""
+    title: ""
+    operating_hours: []
+    maps_link: https://www.google.com/maps/place/Changi+Naval+Base/@1.3170777,104.0225017,15z/data=!4m2!3m1!1s0x0:0xe7aab6af24083fb4?sa=X&ved=2ahUKEwjWrv-1_ajzAhU7rpUCHeN8DJMQ_BJ6BAhtEAU
 contacts:
   - content:
       - phone: +65 6123 4567
