@@ -4,6 +4,8 @@ links:
     url: /Home/
   - title: About Us
     url: /aboutus/
+  - title: Insights
+    url: /permalink
   - title: Research
     url: /permalink
     sublinks:
