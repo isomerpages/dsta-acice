@@ -2,5 +2,6 @@ collections:
   research:
     output: true
     order:
+      - terrorism/.keep
       - social-harmony/.keep
       - covid/.keep
