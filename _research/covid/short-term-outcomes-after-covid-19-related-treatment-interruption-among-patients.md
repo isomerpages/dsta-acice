@@ -4,6 +4,8 @@ title: Short-Term Outcomes After COVID-19-Related Treatment Interruption Among
 permalink: /research/covid/74481
 third_nav_title: Covid
 ---
+[Click here to read more](https://www.dovepress.com/getfile.php?fileID=74481)
+
 Purpose: To assess outcomes and recovery strategy of patients undergoing intravitreal
 injections for exudative age-related macular degeneration who experienced COVID-19
 related interruption in treatment during complete lockdown.
