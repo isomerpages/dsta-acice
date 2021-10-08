@@ -2,20 +2,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /aboutus/
-  - title: Research
-    url: /research
-    sublinks:
-      - title: Terrorism
-        url: /research/terrorism
-      - title: Social Harmony
-        url: /research/social-harmony
-      - title: Covid
-        url: /research/covid
   - title: News
     collection: news
+  - title: Research
+    collection: research
   - title: Press
     url: /press
   - title: faq
     url: /faq
-  - title: Research
-    collection: research
