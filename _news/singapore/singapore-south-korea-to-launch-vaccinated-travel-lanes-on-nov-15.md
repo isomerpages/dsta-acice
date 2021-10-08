@@ -1,8 +1,9 @@
 ---
 title: Singapore, South Korea to launch vaccinated travel lanes on Nov 15
-permalink: /news/singapore/permalink
+permalink: /news/singapore/singaporesouthkorea
 third_nav_title: Singapore
 ---
+
 ![Alt text for image on Isomer site](/images/vbvbvbv.jpg)People walk past self check-in machines in the Changi Airport on Oct 12, 2020. (File photo: REUTERS/Edgar Su)
 
 
