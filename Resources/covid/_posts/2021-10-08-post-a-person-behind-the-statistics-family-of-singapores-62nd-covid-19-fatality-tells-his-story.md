@@ -6,7 +6,7 @@ permalink: /Resources/terrorism/permalink
 layout: post
 ---
 SINGAPORE: For most of the population, he was only known as a case number.
-
+![Alt text for image on Isomer site](/images/111111.jpg)
 And when he died late in the afternoon of Sep 19, he became a statistic: Singapore’s 62nd COVID-19 fatality.
 
 But behind the numbers, was a caring and generous man who took great pride in his home-grown flowers and loved old Chinese music, according to his nephew, who only wanted to be known as Calvin.
