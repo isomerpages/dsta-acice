@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://dsta-acice-staging.netlify.app
 prod: https://dsta-acice-prod.netlify.app
+is_government: true
