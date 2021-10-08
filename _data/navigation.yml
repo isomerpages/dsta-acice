@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /aboutus/
   - title: Insights
-    url: /Insights
+    collection: commentary
   - title: Research
     url: /permalink
     sublinks:
@@ -17,5 +17,3 @@ links:
     url: /press
   - title: faq
     url: /faq
-  - title: Commentary
-    collection: commentary
