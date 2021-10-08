@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Home
-    url: /Home/
   - title: About Us
     url: /aboutus/
   - title: Insights
