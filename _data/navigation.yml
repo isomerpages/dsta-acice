@@ -11,9 +11,9 @@ links:
         url: /research/social-harmony
       - title: Covid
         url: /research/covid
+  - title: News
+    collection: news
   - title: Press
     url: /press
   - title: faq
     url: /faq
-  - title: News
-    collection: news
