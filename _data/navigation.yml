@@ -6,11 +6,11 @@ links:
     url: /research
     sublinks:
       - title: Terrorism
-        url: /permalink
+        url: /terrorism
       - title: Social Harmony
-        url: /permalink
+        url: /social-harmony
       - title: Covid
-        url: /permalink
+        url: /covid
   - title: Press
     url: /press
   - title: faq
