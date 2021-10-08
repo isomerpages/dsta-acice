@@ -1,8 +1,9 @@
 ---
 title: Tesla moving headquarters to Texas from California
-permalink: /news/world/permalink
+permalink: /news/world/tesla-moving-headquarters
 third_nav_title: World
 ---
+
 
 ![Alt text for image on Isomer site](/images/6666666666.jpg)FILE PHOTO: A row of Tesla Model S sedans are seen outside the company's headquarters in Palo Alto, California April 30, 2015. REUTERS/Elijah Nouvelage
 
