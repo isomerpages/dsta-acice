@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - social-harmony/.keep
       - covid/.keep
