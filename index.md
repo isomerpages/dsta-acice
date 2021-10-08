@@ -16,8 +16,7 @@ sections:
       title: Latest Insights
   - infobar:
       title: About Us
-      description: "What About Us? What About Us? What About Us? What About Us? What
-        About Us? What About Us? What About Us? What About Us? "
+      description: "What About Us? "
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
