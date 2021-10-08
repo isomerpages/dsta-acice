@@ -4,6 +4,7 @@ permalink: /research/terrorism/taliban-resurgence-will
 third_nav_title: Terrorism
 ---
 [Example Filename](/files/20%20years%20after%20911%20attacks%20just%20half%20call%20US%20more%20secure-POLL-ABC%20News.pdf)
+![Alt text for image on Isomer site](/images/kctali2909.jpg)
 *# Taliban's resurgence will impact South-east Asia: The Statesman columnist*
 The writer says the Taliban's return to power after the 20-year war with US has boosted the morale of militants in South-east Asia.
 Members of the Taliban display weapons and ammunition seized during an operation in Kandahar, Afghanistan, on Sept 25, 2021.
