@@ -3,6 +3,7 @@ title: Philippine journalist Maria Ressa named joint winner of 2021 Nobel Peace 
 permalink: /news/world/permalink
 third_nav_title: World
 ---
+
 Ressa and Dmitry Muratov of Russia were honoured for their "courageous fight for freedom of expression".
 ![Alt text for image on Isomer site](/images/asdadadasd.jpg)
 Philippine journalist Maria Ressa named joint winner of 2021 Nobel Peace Prize
