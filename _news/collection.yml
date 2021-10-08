@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - lifestyle/.keep
+      - lifestyle/how-unhealthy-can-your-favourite-noodle-dish-get-we-break-down-the-facts.md
       - commentary/.keep
       - world/.keep
       - singapore/.keep
