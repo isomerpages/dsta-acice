@@ -10,9 +10,9 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#fb4520"
-    - title: media-color-four
       color: "#629c03"
+    - title: media-color-four
+      color: "#fb4520"
     - title: media-color-five
       color: "#06b18a"
 resources_name: Resources
