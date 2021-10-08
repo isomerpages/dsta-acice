@@ -1,9 +1,10 @@
 ---
 title: "'As important as a high and attractive salary': Why more firms are
   trying to boost work-life balance"
-permalink: /news/lifestyle/permalink
+permalink: /news/lifestyle/as-important-as-a-high
 third_nav_title: Lifestyle
 ---
+
 SINGAPORE: Despite officially ending work at 6pm each day, “shutting off” afterwards was often difficult for Mr Karlson Kim, an assistant director of sales at the Royal Plaza on Scotts.
 ![Alt text for image on Isomer site](/images/44444.jpg)
 “It's human nature … Basically, we just want to get things done,” said Mr Kim, adding that working from home (WFH) further blurred the boundaries between his work and personal life.
