@@ -1,5 +1,5 @@
 collections:
-  articles:
+  singapore:
     output: true
     order:
       - example-page.md
