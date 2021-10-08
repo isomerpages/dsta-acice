@@ -2,10 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /aboutus/
-  - title: Insights
-    collection: commentary
   - title: Research
-    url: /permalink
+    url: /research
     sublinks:
       - title: Terrorism
         url: /permalink
