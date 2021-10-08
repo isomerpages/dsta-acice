@@ -17,3 +17,5 @@ links:
     url: /press
   - title: faq
     url: /faq
+  - title: Commentary
+    collection: commentary
