@@ -1,8 +1,9 @@
 ---
 title: How unhealthy can your favourite noodle dish get? We break down the facts
-permalink: /news/permalink
+permalink: /news/lifestyle/permalink
 third_nav_title: Lifestyle
 ---
+
 Everyone has his or her favourite noodle dish, whether it's bak chor me or mee siam, mee goreng or ramen.  And that goes for noodle preferences, too, whether it's mee pok, bee hoon, ban mian or soba noodles.
 
 ![Alt text for image on Isomer site](/images/22222.jpg)
