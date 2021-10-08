@@ -1,9 +1,10 @@
 ---
 title: PM Lee to address nation on Saturday at noon on the COVID-19 situation in
   Singapore
-permalink: /news/singapore/permalink
+permalink: /news/singapore/pmleetoaddressnation
 third_nav_title: Singapore
 ---
+
 ![Alt text for image on Isomer site](/images/fgfgfgfg.jpg)PM Lee Hsien Loong addresses the nation on May 31, 2021. (Photo: MCI)
 
 08 Oct 2021 06:10PM
