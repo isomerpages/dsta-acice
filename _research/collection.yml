@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - terrorism/.keep
+      - terrorism/new-zealand-outlaws-terror-attack-planning-after-is-linked-stabbing.md
       - social-harmony/.keep
       - covid/.keep
