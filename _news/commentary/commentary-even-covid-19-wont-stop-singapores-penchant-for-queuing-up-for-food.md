@@ -1,9 +1,10 @@
 ---
 title: "Commentary: Even COVID-19 won’t stop Singapore’s penchant for queuing up
   for food"
-permalink: /news/commentary/permalink
+permalink: /news/commentary/even-covid-19-wont
 third_nav_title: Commentary
 ---
+
 If Singapore’s foodie culture is so ingrained that we will endure long queues for our favourite dishes, we can channel it to keep our F&B industry afloat, says Karen Tee.
 ![Alt text for image on Isomer site](/images/666666.jpg)
 Commentary: Even COVID-19 won’t stop Singapore’s penchant for queuing up for food
