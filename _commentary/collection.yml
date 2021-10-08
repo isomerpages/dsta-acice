@@ -1,5 +1,4 @@
 collections:
   commentary:
     output: true
-    order:
-      - insights.md
+    order: []
