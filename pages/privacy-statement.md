@@ -2,27 +2,37 @@
 title: Privacy Statement
 permalink: /press
 ---
+**The privacy policy is one of the most essential legal requirements for websites.**
 
-> # This is a Government Agency digital service.
+Even if you just have a small business or a blog with no income at all, you might be surprised to discover that you still need a privacy policy.
 
-We may use "cookies", where a small data file is sent to your browser to store and track information about you when you enter our digital service. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred digital services. While this cookie can tell us when you enter our digital services and which pages you visit, it cannot read data off your hard disk.
+Basically, if your website collects personal data, you need a privacy policy that informs your users about this according to privacy laws in most jurisdictions, including the EU and the US.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the digital service.
+Almost all modern websites function with the use of cookies, so chances are high that your website is collecting personal data, for example for statistical, functional or marketing purposes.
 
-If you provide us with personally identifiable data:
+In this blogpost, we take a look at what constitutes a good privacy policy, how to make a compliant GDPR privacy policy and whether using a privacy policy generator is a good idea.
 
-(a) Where appropriate, we may share necessary data with other Government agencies, so as to improve the discharge of public functions, and to serve you in the most efficient and effective way unless such sharing is prohibited by law.
+Learn what the privacy policy is and how to get one for your website below.
 
-(b) We will NOT share your Personal Data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
+**What is a privacy policy?**
 
-(c) For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+A privacy policy is a document that states what personal data you collect from your users, why, and how you keep it private.
 
-To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
+The purpose of the privacy policy is to inform your users about how their data is being handled.
 
-This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and encourage you to consult the privacy notices of those digital services.
+Hence, the privacy policy should be accessible for your users and kept in a plain and readable language.
 
-Please contact qsm@dsta.gov.sg if you:
+Most countries have privacy laws requiring that websites collecting personal data have a proper privacy policy in place.
 
-(a) have any enquires or feedback on our data protection policies and procedures;
+Failure to comply can result in heavy fines and even prosecution. Are you based in the EU or providing services to EU citizens, you must have a GDPR compliant privacy policy on your domain.
 
-(b) need more information on or access to data which you have provided to us in the past.
+We will get into this in more detail below.
+
+What is personal data?
+Personal data is information that can identify an individual, either directly or when combined with other data.
+
+Names, e-mails, addresses, localization, IP-addresses, photos, and account information all are directly identifying data.
+
+Health information, income, religion and cultural profiles and the like is also personal data.
+
+Furthermore, and crucial in the present context, data on user behavior is also personal. Cookies can track and register individual users’ browsing activities, like what articles they scroll past and which ones they choose to click on.
