@@ -1,9 +1,10 @@
 ---
 title: DSTA Horizons
 date: 2021-10-02
-permalink: /infopics/permalink
+permalink: /resources/infopics/dsta-horizons
 layout: post
 ---
+
 
 Editorial
 Designing the Hunter Armoured Fighting Vehicle
