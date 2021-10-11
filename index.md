@@ -29,10 +29,11 @@ sections:
       button: Read More
   - infopic:
       title: Making A Mark
-      subtitle: Infopic Subtitle
+      subtitle: Making A Mark
       description: Making A Mark is about DSTA engineers and professionals whose
         contributions and innovations have shaped and transformed Singapore’s
         defence landscape
-      button: Button Text
-      alt: Image alt text
+      button: Read more
+      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-making-a-mark.pdf?sfvrsn=2
+      image: /images/dstamakingamark.jpg
 ---
