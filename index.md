@@ -43,12 +43,12 @@ sections:
       image: /images/ak_aucov2_111021.jpg
       alt: Long 100 days
   - infopic:
-      title: DSTA Horizons
-      subtitle: DSTA Horizons
+      title: What do I need to travel to the 11 countries under the VTL?
+      subtitle: Vaccinated Travel Lane
       description: First published in April 2005, DSTA Horizons serves as a repository
         for our diverse expertise and knowledge in various fields of technology
       button: Read more
-      url: https://cms.isomer.gov.sg/sites/dsta-acice/resources/infopics/2021-10-11-post-dsta-horizons.md
-      image: /images/dh2020_cover1.jpg
-      alt: DSTA Horizons
+      url: https://www.straitstimes.com/singapore/transport/askst-what-do-i-need-to-travel-to-the-11-countries-under-the-vaccinated-travel
+      image: /images/yq-changiairport-09102021.jpg
+      alt: Vaccinated Travel Lane
 ---
