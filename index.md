@@ -13,9 +13,7 @@ sections:
       title: Latest Insights
   - infobar:
       title: About Us
-      description: The Defence Science and Technology Agency (DSTA) drives innovation
-        and delivers state-of-the-art capabilities to make the SAF a formidable
-        fighting force.
+      description: ACICE
   - infopic:
       title: People Excellence Award 2016 Summary Report
       subtitle: People Excellence Award 2016
