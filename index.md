@@ -45,4 +45,13 @@ sections:
       button: Read more
       url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-innovation-award-2014-executive-summary.pdf?sfvrsn=2
       image: /images/dstaieaward.jpg
+  - infopic:
+      title: DSTA Horizons
+      subtitle: DSTA Horizons
+      description: First published in April 2005, DSTA Horizons serves as a repository
+        for our diverse expertise and knowledge in various fields of technology
+      button: Read more
+      url: https://www.dsta.gov.sg/who-we-are/publications/dsta-horizons/dsta-horizons-2020
+      image: /images/dh2020_cover1.jpg
+      alt: Image alt text
 ---
