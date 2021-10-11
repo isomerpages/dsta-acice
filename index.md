@@ -24,6 +24,15 @@ sections:
       subtitle: People Excellence Award 2016
       description: The report gives a glimpse of the people development initiatives
         and achievements that helped DSTA to achieve the award
-      alt: Image alt text
       image: /images/pea_award_summary_cover_thumbnail.jpg
+      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/pea_award_summary_170607.pdf?sfvrsn=2
+      button: Read More
+  - infopic:
+      title: Making A Mark
+      subtitle: Infopic Subtitle
+      description: Making A Mark is about DSTA engineers and professionals whose
+        contributions and innovations have shaped and transformed Singapore’s
+        defence landscape
+      button: Button Text
+      alt: Image alt text
 ---
