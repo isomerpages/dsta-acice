@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       title: ACICE
-      subtitle: "ACICE is blah blah blah..... ACICE is blah blah blah..... ACICE is
-        blah blah blah..... ACICE is blah blah blah..... ACICE is blah blah
-        blah..... "
       background: /images/ACICE_Hero.jpg
   - resources:
       title: Latest Insights
@@ -51,7 +48,7 @@ sections:
       description: First published in April 2005, DSTA Horizons serves as a repository
         for our diverse expertise and knowledge in various fields of technology
       button: Read more
-      url: https://www.dsta.gov.sg/who-we-are/publications/dsta-horizons/dsta-horizons-2020
+      url: https://cms.isomer.gov.sg/sites/dsta-acice/resources/infopics/2021-10-11-post-dsta-horizons.md
       image: /images/dh2020_cover1.jpg
       alt: Image alt text
 ---
