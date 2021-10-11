@@ -24,15 +24,14 @@ sections:
       button: Read More
       alt: Seniors in S'pore
   - infopic:
-      title: Making A Mark
-      subtitle: Making A Mark
-      description: Making A Mark is about DSTA engineers and professionals whose
-        contributions and innovations have shaped and transformed Singapore’s
-        defence landscape
+      title: Family violence cases on the rise in S'pore
+      subtitle: Family violence
+      description: Social workers say victims are under more duress if the couple both
+        work from home, given the continual threat of abuse
       button: Read more
-      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-making-a-mark.pdf?sfvrsn=2
-      image: /images/dstamakingamark.jpg
-      alt: Making A Mark
+      url: https://www.straitstimes.com/singapore/community/family-violence-cases-on-the-rise-in-spore-amid-covid-19-pandemic
+      image: /images/rk_family-violence_111021.jpg
+      alt: Family violence
   - infopic:
       title: I-Award 2014 Executive Summary Report
       subtitle: I-Award 2014
