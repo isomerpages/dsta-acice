@@ -24,6 +24,7 @@ sections:
       image: /images/pea_award_summary_cover_thumbnail.jpg
       url: https://www.dsta.gov.sg/docs/default-source/dsta-about/pea_award_summary_170607.pdf?sfvrsn=2
       button: Read More
+      alt: People Excellence Award 2016
   - infopic:
       title: Making A Mark
       subtitle: Making A Mark
@@ -33,6 +34,7 @@ sections:
       button: Read more
       url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-making-a-mark.pdf?sfvrsn=2
       image: /images/dstamakingamark.jpg
+      alt: Making A Mark
   - infopic:
       title: I-Award 2014 Executive Summary Report
       subtitle: I-Award 2014
@@ -42,6 +44,7 @@ sections:
       button: Read more
       url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-innovation-award-2014-executive-summary.pdf?sfvrsn=2
       image: /images/dstaieaward.jpg
+      alt: I-Award 2014
   - infopic:
       title: DSTA Horizons
       subtitle: DSTA Horizons
@@ -50,5 +53,5 @@ sections:
       button: Read more
       url: https://cms.isomer.gov.sg/sites/dsta-acice/resources/infopics/2021-10-11-post-dsta-horizons.md
       image: /images/dh2020_cover1.jpg
-      alt: Image alt text
+      alt: DSTA Horizons
 ---
