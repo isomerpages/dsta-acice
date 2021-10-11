@@ -36,4 +36,13 @@ sections:
       button: Read more
       url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-making-a-mark.pdf?sfvrsn=2
       image: /images/dstamakingamark.jpg
+  - infopic:
+      title: I-Award 2014 Executive Summary Report
+      subtitle: I-Award 2014
+      description: The report captures the essential qualities of DSTA that helped it
+        achieve the award, including its Leadership, People, Processes and
+        Results.
+      button: Read more
+      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-innovation-award-2014-executive-summary.pdf?sfvrsn=2
+      image: /images/dstaieaward.jpg
 ---
