@@ -1,9 +1,10 @@
 ---
 title: Making A Mark
 date: 2021-10-02
-permalink: /infopics/permalink
+permalink: /resources/infopics/making-a-mask
 layout: post
 ---
+
 
 DSTA is an Innovation Award 2014 recipient. The report captures the essential qualities of DSTA that helped it achieve the award, including its Leadership, People, Processes and Results.
 
