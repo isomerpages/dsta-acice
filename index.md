@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Defence Science and Technology Agency
+title: ACICE
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
