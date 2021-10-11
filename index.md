@@ -16,7 +16,9 @@ sections:
       title: Latest Insights
   - infobar:
       title: About Us
-      description: "What About Us? "
+      description: The Defence Science and Technology Agency (DSTA) drives innovation
+        and delivers state-of-the-art capabilities to make the SAF a formidable
+        fighting force.
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
