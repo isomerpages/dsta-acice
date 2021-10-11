@@ -15,14 +15,14 @@ sections:
       title: About Us
       description: ACICE
   - infopic:
-      title: People Excellence Award 2016 Summary Report
-      subtitle: People Excellence Award 2016
-      description: The report gives a glimpse of the people development initiatives
-        and achievements that helped DSTA to achieve the award
-      image: /images/pea_award_summary_cover_thumbnail.jpg
-      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/pea_award_summary_170607.pdf?sfvrsn=2
+      title: Seniors in S'pore find it hard to stay home
+      subtitle: Seniors in S'pore
+      description: ST spoke with 50 seniors in areas such as Chinatown, Beach Road,
+        Waterloo Street and Kampong Glam, over the last week
+      image: /images/shseniors11_wallacewoon20211009_009.jpg
+      url: https://www.straitstimes.com/singapore/seniors-in-spore-find-it-hard-to-stay-home-in-order-to-stay-safe-amid-covid-19
       button: Read More
-      alt: People Excellence Award 2016
+      alt: Seniors in S'pore
   - infopic:
       title: Making A Mark
       subtitle: Making A Mark
