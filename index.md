@@ -33,15 +33,15 @@ sections:
       image: /images/rk_family-violence_111021.jpg
       alt: Family violence
   - infopic:
-      title: I-Award 2014 Executive Summary Report
-      subtitle: I-Award 2014
+      title: "'Long 100 days': Sydney reopens as Australia"
+      subtitle: Long 100 days
       description: The report captures the essential qualities of DSTA that helped it
         achieve the award, including its Leadership, People, Processes and
         Results.
       button: Read more
-      url: https://www.dsta.gov.sg/docs/default-source/dsta-about/dsta-innovation-award-2014-executive-summary.pdf?sfvrsn=2
-      image: /images/dstaieaward.jpg
-      alt: I-Award 2014
+      url: https://www.straitstimes.com/asia/australianz/long-100-days-sydney-reopens-as-australia-looks-to-live-with-covid-19
+      image: /images/ak_aucov2_111021.jpg
+      alt: Long 100 days
   - infopic:
       title: DSTA Horizons
       subtitle: DSTA Horizons
