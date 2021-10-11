@@ -20,9 +20,10 @@ sections:
         and delivers state-of-the-art capabilities to make the SAF a formidable
         fighting force.
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: People Excellence Award 2016 Summary Report
+      subtitle: People Excellence Award 2016
+      description: The report gives a glimpse of the people development initiatives
+        and achievements that helped DSTA to achieve the award
       alt: Image alt text
+      image: /images/pea_award_summary_cover_thumbnail.jpg
 ---
