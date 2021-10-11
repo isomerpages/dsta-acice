@@ -2,10 +2,46 @@
 title: About Us
 permalink: /aboutus
 ---
-![Alt text for image on Isomer site](/images/dsta-integrated-complex.jpg)
+# Your About Us page is one of the most important pages on your website.
 
-The Defence Science and Technology Agency (DSTA) drives innovation and delivers state-of-the-art capabilities to make the SAF a formidable fighting force.
+An About Us page is your chance to tell the world:
 
-Harnessing and exploiting science and technology, our engineers and IT professionals leverage multidisciplinary expertise to equip our soldiers with advanced systems to defend Singapore. DSTA also contributes its technological expertise to support national-level developments.
+Who you are.
+What matters to you.
+What you do.
+How you do it.
+It’s often one of the first stops when someone visits your website or blog.
 
-To achieve our mission, DSTA excels in acquisition management, digitalised platforms, cyber analytics, software development and more.
+An About Us page may be a deciding factor before you convince someone to convert, whether that comes in the form of:
+
+Making a purchase.
+Downloading an awesome piece of content.
+Signing up for your newsletter.
+Requesting information or a demo.
+So how do you make your About Us page awesome (or more awesome??
+
+**What Makes a Great About Us Page?**
+
+Your About Us page should be:
+
+Informative. It doesn’t always have to tell your whole story, but it should at least provide people with an idea of .
+Contain social proof, testimonials, and some personal information that visitors can relate to, such as education, family, etc.
+Useful.
+Engaging.
+Easy to navigate.
+Accessible on any device.
+Does that all sound complicated?
+
+It really isn’t.
+
+The main purpose of your About Us page is to give your visitors a glimpse into who you are as a person or a business (or sometimes both).
+
+As users discover your brand, they need to distinguish what sets you apart and makes you… you.
+
+This often requires finding the right balance between compelling content and a design carefully planned to look the part.
+
+Conveying your identity in a fun and approachable – but also reliable and informative – way is challenging.
+
+If you know who you are and your goal for your site, the About Us page should come naturally.
+
+However, if you’re looking for some inspiration, you can always check out the following 25 awesome examples of About Us pages.
